@@ -18,17 +18,20 @@ Enterprise distributions, commercial support and training are available from [F5
   - [Modules](#modules)
   - [Configurations](#configurations)
   - [Runtime](#runtime)
+    
 - [Downloading and installing](#downloading-and-installing)
   - [Stable and Mainline binaries](#stable-and-mainline-binaries)
   - [Linux binary installation process](#linux-binary-installation-process)
   - [FreeBSD installation process](#freebsd-installation-process)
   - [Windows executables](#windows-executables)
   - [Dynamic modules](#dynamic-modules)
+    
 - [Getting started with NGINX](#getting-started-with-nginx)
   - [Installing SSL certificates and enabling TLS encryption](#installing-ssl-certificates-and-enabling-tls-encryption)
   - [Load Balancing](#load-balancing)
   - [Rate limiting](#rate-limiting)
   - [Content caching](#content-caching)
+    
 - [Building from source](#building-from-source)
   - [Installing dependencies](#installing-dependencies)
   - [Cloning the NGINX GitHub repository](#cloning-the-nginx-github-repository)
@@ -228,3 +231,5 @@ See our [changelog](https://nginx.org/en/CHANGES) to keep track of updates.
 
 ---
 Additional documentation available at: https://nginx.org/en/docs
+
+// Updating for triggers
