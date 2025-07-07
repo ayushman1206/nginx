@@ -232,4 +232,4 @@ See our [changelog](https://nginx.org/en/CHANGES) to keep track of updates.
 ---
 Additional documentation available at: https://nginx.org/en/docs
 
-// For setting a basic push-event trigger
+// Generating trigger for pushing new tag
